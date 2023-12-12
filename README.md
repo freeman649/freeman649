@@ -1,4 +1,6 @@
 ### Hi there 👋
+I learn C# and Python
+I like Reverse Engeenering
 
 <!--
 **freeman649/freeman649** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
