@@ -4,7 +4,7 @@ Hi 👋 My name is freeman649
 Im learning C# and Reverse Engineering
 --------------------------------------
 
-I have been learning C# for 2 months and Reverse Engineering for about 4 months, and I have been passionate about computers since I was a child
+I have been learning C# for 2 months and Reverse Engineering for about 4 months, and I have been passionate about computers since I was a child, i am pro player in Geometry Dash XD
 
 *   🌍  I'm based in France
 *   🧠  I'm learning C#
