@@ -7,7 +7,7 @@ Im learning C# and Reverse Engineering
 I have been learning C# for 6 months and Reverse Engineering for about 8 months, and I have been passionate about computers since I was a child, i am pro player in Geometry Dash XD
 
 *   🌍  I'm based in France
-*   🧠  I'm learning C#
+*   🧠  I'm learning C# and Nodejs
 
 <a href="https://www.github.com/freeman649" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/freeman649?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitch.tv/freeman649" target="_blank" rel="noreferrer"><img
