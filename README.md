@@ -10,8 +10,7 @@ I have been learning C# for 6 months and Reverse Engineering for about 8 months,
 *   🧠  I'm learning C# and Nodejs
 
 <a href="https://www.github.com/freeman649" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/freeman649?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitch.tv/freeman649" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/freeman649?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=000000&label=TWITCH+STATUS" /></a>
+src="https://img.shields.io/github/followers/freeman649?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
 ### Skills 
 <p align="left">
